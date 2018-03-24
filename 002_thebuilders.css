@@ -1,0 +1,101 @@
+#002_thebuilder_start{color=#002002;}
+.buildingback {opacity:0.3; cursor: default;}
+.building_rot_wrap .worker {opacity:0.8; cursor: default;}
+.worker,#avbuilders .stockitem {font-size: 12px }
+#worker_1:before,#avbuilders_item_1:before {content: "1";}
+#worker_2:before,#avbuilders_item_2:before {content: "2";}
+#worker_3:before,#avbuilders_item_3:before {content: "3";}
+#worker_4:before,#avbuilders_item_4:before {content: "4";}
+#worker_5:before,#avbuilders_item_5:before {content: "5";}
+#worker_6:before,#avbuilders_item_6:before {content: "6";}
+#worker_7:before,#avbuilders_item_7:before {content: "7";}
+#worker_8:before,#avbuilders_item_8:before {content: "8";}
+#worker_9:before,#avbuilders_item_9:before {content: "9";}
+#worker_10:before,#avbuilders_item_10:before {content: "10";}
+#worker_11:before,#avbuilders_item_11:before {content: "11";}
+#worker_12:before,#avbuilders_item_12:before {content: "12";}
+#worker_13:before,#avbuilders_item_13:before {content: "13";}
+#worker_14:before,#avbuilders_item_14:before {content: "14";}
+#worker_15:before,#avbuilders_item_15:before {content: "15";}
+#worker_16:before,#avbuilders_item_16:before {content: "16";}
+#worker_17:before,#avbuilders_item_17:before {content: "17";}
+#worker_18:before,#avbuilders_item_18:before {content: "18";}
+#worker_19:before,#avbuilders_item_19:before {content: "19";}
+
+#worker_20:before,#avbuilders_item_20:before {content: "20";}
+#worker_21:before,#avbuilders_item_21:before {content: "21";}
+#worker_22:before,#avbuilders_item_22:before {content: "22";}
+#worker_23:before,#avbuilders_item_23:before {content: "23";}
+#worker_24:before,#avbuilders_item_24:before {content: "24";}
+#worker_25:before,#avbuilders_item_25:before {content: "25";}
+#worker_26:before,#avbuilders_item_26:before {content: "26";}
+#worker_27:before,#avbuilders_item_27:before {content: "27";}
+#worker_28:before,#avbuilders_item_28:before {content: "28";}
+#worker_29:before,#avbuilders_item_29:before {content: "29";}
+
+#worker_30:before,#avbuilders_item_30:before {content: "30";}
+#worker_31:before,#avbuilders_item_31:before {content: "31";}
+#worker_32:before,#avbuilders_item_32:before {content: "32";}
+#worker_33:before,#avbuilders_item_33:before {content: "33";}
+#worker_34:before,#avbuilders_item_34:before {content: "34";}
+#worker_35:before,#avbuilders_item_35:before {content: "35";}
+#worker_36:before,#avbuilders_item_36:before {content: "36";}
+#worker_37:before,#avbuilders_item_37:before {content: "37";}
+#worker_38:before,#avbuilders_item_38:before {content: "38";}
+#worker_39:before,#avbuilders_item_39:before {content: "39";}
+
+#worker_40:before,#avbuilders_item_40:before {content: "40";}
+#worker_41:before,#avbuilders_item_41:before {content: "41";}
+#worker_42:before,#avbuilders_item_42:before {content: "42";}
+#worker_43:before,#avbuilders_item_43:before {content: "43";}
+#worker_44:before,#avbuilders_item_44:before {content: "44";}
+#worker_45:before,#avbuilders_item_45:before {content: "45";}
+#worker_46:before,#avbuilders_item_46:before {content: "46";}
+#worker_47:before,#avbuilders_item_47:before {content: "47";}
+#worker_48:before,#avbuilders_item_48:before {content: "48";}
+#worker_49:before,#avbuilders_item_49:before {content: "49";}
+
+#worker_50:before,#avbuilders_item_50:before {content: "50";}
+#worker_51:before,#avbuilders_item_51:before {content: "51";}
+#worker_52:before,#avbuilders_item_52:before {content: "52";}
+#worker_53:before,#avbuilders_item_53:before {content: "53";}
+#worker_54:before,#avbuilders_item_54:before {content: "54";}
+#worker_55:before,#avbuilders_item_55:before {content: "55";}
+#worker_56:before,#avbuilders_item_56:before {content: "56";}
+#worker_57:before,#avbuilders_item_57:before {content: "57";}
+#worker_58:before,#avbuilders_item_58:before {content: "58";}
+#worker_59:before,#avbuilders_item_59:before {content: "59";}
+
+#worker_60:before,#avbuilders_item_60:before {content: "60";}
+#worker_61:before,#avbuilders_item_61:before {content: "61";}
+#worker_62:before,#avbuilders_item_62:before {content: "62";}
+#worker_63:before,#avbuilders_item_63:before {content: "63";}
+#worker_64:before,#avbuilders_item_64:before {content: "64";}
+#worker_65:before,#avbuilders_item_65:before {content: "65";}
+#worker_66:before,#avbuilders_item_66:before {content: "66";}
+#worker_67:before,#avbuilders_item_67:before {content: "67";}
+#worker_68:before,#avbuilders_item_68:before {content: "68";}
+#worker_69:before,#avbuilders_item_69:before {content: "69";}
+
+#worker_70:before,#avbuilders_item_70:before {content: "70";}
+#worker_71:before,#avbuilders_item_71:before {content: "71";}
+#worker_72:before,#avbuilders_item_72:before {content: "72";}
+#worker_73:before,#avbuilders_item_73:before {content: "73";}
+#worker_74:before,#avbuilders_item_74:before {content: "74";}
+#worker_75:before,#avbuilders_item_75:before {content: "75";}
+#worker_76:before,#avbuilders_item_76:before {content: "76";}
+#worker_77:before,#avbuilders_item_77:before {content: "77";}
+#worker_78:before,#avbuilders_item_78:before {content: "78";}
+#worker_79:before,#avbuilders_item_79:before {content: "79";}
+
+#worker_80:before,#avbuilders_item_80:before {content: "80";}
+#worker_81:before,#avbuilders_item_81:before {content: "81";}
+#worker_82:before,#avbuilders_item_82:before {content: "82";}
+#worker_83:before,#avbuilders_item_83:before {content: "83";}
+#worker_84:before,#avbuilders_item_84:before {content: "84";}
+#worker_85:before,#avbuilders_item_85:before {content: "85";}
+#worker_86:before,#avbuilders_item_86:before {content: "86";}
+#worker_87:before,#avbuilders_item_87:before {content: "87";}
+#worker_88:before,#avbuilders_item_88:before {content: "88";}
+#worker_89:before,#avbuilders_item_89:before {content: "89";}
+#002_thebuilder_end{color=#000002;}
